@@ -1,6 +1,40 @@
 ### Hi there 👋
+                                                                      .......                                                                         
+                                                                    ...........                                                                       
+                                                                   ...       .''.                                                                     
+                                                                  ..          .lo:.                                                                   
+                                                                 ..          .cKWN0c..            .                                                   
+                                                                .'.          .cKWMWXc            ..                                                   
+                                              .. ..    ...     .'.            .;oOWWK;      ....';'...                                                
+                                            ..            .....''          .......kWWk,.........,.....,.                                              
+                                            ..                .,'...      ..... ..cKWKc..      ..     .,.                                             
+                                             .                .,.  .........',;,,'.lXXl.      ..      ..                                              
+                                              .               ''      .,:odddd:..  'xKo.    ..       ..                                               
+                                               ..             ''  ..:dOXNKkdl;'... .cOd.   ..       ..                                                
+                                                ..       .....,;:okXWMMN0xoolllc;,'.;kx'....      ..                                                  
+                                                 ....      .'lkKNMMWXOo:,,,,,,''....'dx,... .;:;,,'..                                                 
+                                                    ..  .'ckXWMMWKko:,;coooll:;'''...cd;... 'xK0ko:,'.'..                                             
+                                                     ..cOXWWNKOo:,',;lx0XNNNKOkxoc;..:o'.........     .'''.                                           
+                                                      :0NWNKo;,..';:ldOXWMMMWWWNKxc,.:c. .......     .....                                            
+                                                   ..,;cool;.....',:lx0NMMMMMMMWKxc,.,:'...    ... .....                                              
+                                                  ....     ...,,..,;ldONWMMWWXKOdc:,.;:..       ....                                                  
+                                               .....         .',,;,,;cdk0K00Oxoc::;,',,....        ...                                                
+                                             ....    .     ......,;:::clcllllc::;,'..,'.             ..                                               
+                                            ..             .........,;cccllcc:;,.....'.               ...                                             
+                                          ...              .. ... .....,:lxkOOOxdo:,''.                ...                                            
+                                         ..               ..  ...  .......,,:xKWMMWXKOo:'.;dxo,         .'                                            
+                                        ...              ..   ............   .;oOXWMMMMWNXNWWWX:        .'.                                           
+                                         ..             .......''......         .';oxkO0KKXXNX0:       .'.                                            
+                                          ..          ..,'...  .'.                 .. ....'',,'..........                                             
+                                            ... .......',.     .'..               .'.          .......                                                
+                                                      .;;';c,  ..'.              .'.                                                                  
+                                                      'okKNNo. ...'.            .''.                                                                  
+                                                      'xKKx:.    .''.          ..,.                                                                   
+                                                       .'.        .''.       ...'.                                                                    
+                                                                   .''..... .....                                                                     
+                                                                    ......   ..   
 
-<img src="https://drive.google.com/file/d/1g-kZlfG-yUoKb-hhVoFwPYVimhWFgetS/view?usp=sharing" />
+
 
 Here are some ideas to get you started:
 
