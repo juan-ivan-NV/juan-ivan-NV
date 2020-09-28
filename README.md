@@ -37,7 +37,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on time series for cryptocurrencies
+- 🔭 I’m currently working on an autonomous AI driving vehicle 
 - 🌱 I’m currently learning PostgreSQL
 - 👯 I’m looking to collaborate on intelligent and autonomous systems
 - 📫 How to reach me ► https://www.linkedin.com/in/juan-ivan-nu%C3%B1ez-baeza-3b7019a7/
