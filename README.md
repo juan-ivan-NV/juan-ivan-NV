@@ -35,8 +35,7 @@
                                                                              ,lxd'                                                          
                                                                                ...   
 
-Here are some ideas to get you started:
-
+$$$ Pseudo Trader $$$
 - 🔭 I’m currently working on an autonomous AI driving vehicle 
 - 🌱 I’m currently learning about the NVIDIA Jetson TK1
 - 👯 I’m looking to collaborate on intelligent and autonomous systems
