@@ -1,4 +1,4 @@
-### All those moments will be lost in time... 🕊️🕊️🕊️🕊️🕊️🕊️🕊️ 🤖🤖🤖🤖🤖 
+## All those moments will be lost in time... 🕊️🕊️🕊️🕊️🕊️🕊️🕊️ 🤖🤖🤖🤖🤖 
                                                 .......,;::;;;;;;;::cc::;'.                                                                 
                                          .',;:codkOOOk0KXK0kk0KKK0OOO000KKOxdkkkdoc;'..                                                     
                                      .,:ldxxddooddddxxkOXXOxk0KXXNNK0OOO0KXXXNNNNNNNXKkdl:'.                                                
@@ -36,8 +36,8 @@
                                                                                ...   
 
 $$$ Pseudo Trader $$$
-- 🔭 I’m currently working as an "In Vehicle Software Engineer" 
-- 🌱 I’m currently studying a data engineering nanodegree at udacity
+- 🔭 I’m currently working as an <code>In Vehicle Software Engineer</code> 
+- 🌱 I’m currently studying a <code>Data Engineering Nanodegree</code> at Udacity
 - 👯 I’m looking to collaborate on intelligent and autonomous systems
 - 📫 How to reach me ► https://www.linkedin.com/in/juan-ivan-nu%C3%B1ez-baeza-3b7019a7/
 - ⚡ Fun fact ► I like Ａｅｓｔｈｅｔｉｃｓ (Vaporwave and Synthwave)
