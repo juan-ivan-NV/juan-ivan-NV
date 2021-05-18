@@ -36,8 +36,8 @@
                                                                                ...   
 
 $$$ Pseudo Trader $$$
-- 🔭 I’m currently working on an autonomous AI driving vehicle 
-- 🌱 I’m currently learning about the NVIDIA Jetson TK1
+- 🔭 I’m currently working as an "In Vehicle Software Engineer" 
+- 🌱 I’m currently studying a data engineering nanodegree at udacity
 - 👯 I’m looking to collaborate on intelligent and autonomous systems
 - 📫 How to reach me ► https://www.linkedin.com/in/juan-ivan-nu%C3%B1ez-baeza-3b7019a7/
 - ⚡ Fun fact ► I like Ａｅｓｔｈｅｔｉｃｓ (Vaporwave and Synthwave)
