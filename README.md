@@ -39,9 +39,10 @@
                :7PBY7!!!~~!!!!!!!!!!!!!!!!!!!7JPGBB#BG555B@@@@@@@@@&BPYYYYYYYYYYYYYY?~~~~~~~~~~~??~?5B&BY!7YP57!!!YP5557~Y!5?G^                       
              ~PBP?!!!!!!!!!!!!!!!!!!!!!!!!!!!!~~!?YPG#@&@@@&&&&&&&#PYYYYYYYYYYYYY5Y7~~~~~~~~~~~~7Y~755#BP7!75PJ!!!!G55P?~YGJYY   
 
-$$$ Pseudo Trader $$$
-- 🔭 I’m currently working as an <code>In Vehicle Software Engineer</code> 
-- 🌱 I’m finishing my 1/16 self driving car
-- 👯 I’m looking to collaborate on intelligent and autonomous systems
+$$$ In transition to Blockchain field $$$
+- 🔭 I’m currently working as <code>OTA Vehicle Software Engineer</code> 
+- 🌱 I’m building a 1/16 self driving car
+- 🏅 Data analytics bootcamp Iron Hack
+- 🏅 Data engineering nanodegree Udacity
 - 📫 How to reach me ► https://www.linkedin.com/in/juan-ivan-nu%C3%B1ez-baeza-3b7019a7/
 - ⚡ Fun fact ► I like Ａｅｓｔｈｅｔｉｃｓ (Vaporwave and Synthwave)
